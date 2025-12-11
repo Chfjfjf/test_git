@@ -1,0 +1,17 @@
+IT Skills:
+
+Programming Languages:
+- Python
+- JavaScript
+- HTML/CSS
+- SQL
+
+Tools & Frameworks:
+- Git & GitHub
+- VS Code
+- Node.js
+
+Soft Skills:
+- Problem Solving
+- Team Collaboration
+- Project Management
