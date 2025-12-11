@@ -1,0 +1,21 @@
+Function Library:
+
+1. calculateSum(a, b)
+   - Description: Returns the sum of two numbers
+   - Parameters: a (number), b (number)
+   - Returns: number
+
+2. reverseString(str)
+   - Description: Reverses a string
+   - Parameters: str (string)
+   - Returns: string
+
+3. findMax(arr)
+   - Description: Finds the maximum value in an array
+   - Parameters: arr (array)
+   - Returns: number
+
+4. filterArray(arr, condition)
+   - Description: Filters array based on condition
+   - Parameters: arr (array), condition (function)
+   - Returns: array
